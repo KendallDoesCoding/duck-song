@@ -1,6 +1,6 @@
 # duck-song
 
-This is the alternative project I made with my template. The main project is for Ludwig's Christmas Playlist - A Very Mogul Christmas!
+This is the alternative project I made with my [template](https://github.com/KendallDoesCoding/video-playlist-in-browser). The main project is for Ludwig's Christmas Playlist - A Very Mogul Christmas!
 
 # Main Repo
 The main repo is located [here](https://github.com/KendallDoesCoding/mogul-christmas)
