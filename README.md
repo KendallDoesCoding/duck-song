@@ -9,7 +9,7 @@ The main repo is located [here](https://github.com/KendallDoesCoding/mogul-chris
 Ensure that the last youtube video you watched wasn't on mute, otherwise the autoplay on this site will be muted too.
 
 # On Updates
-I proably won't be updating this template, but you can view the main repo at mogul-christmas, and create a PR if you like. I'll be sure to merge it.
+I proably won't be updating this template, except for changes from time to time but you can view the main repo at mogul-christmas, and create a PR if you like. I'll be sure to merge it.
 
 # Check it out here
 The website is hosted [here](https://kendalldoescoding.gq/ducksong)! 
