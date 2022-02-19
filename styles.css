@@ -45,3 +45,14 @@ a:active {
   font-size: 16px;
   font-family: "Handlee", cursive;
 }
+
+/*Lyrics Directory*/
+.lyrics-heading {
+  color: lightgreen;
+  font-family: "Redressed", cursive;
+}
+
+.lyrics {
+  color: red;
+  font-family: "Roboto", sans-serif;
+}
